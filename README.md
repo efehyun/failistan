@@ -1,0 +1,1 @@
+Failistan için kullandığım kod.
